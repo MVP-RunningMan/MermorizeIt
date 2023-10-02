@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="test()" >123</button>
+    <button onclick="test1()" >456</button>
+    <script>
+        function test(){
+            axios({
+            method: "get",
+            url: "http://localhost:3000/test", // 接口地址
+          }).then(response => {
+            console.log(response);
+            console.log(document.cookie)
+            }).catch(error => console.log(error, "error"));
+        }
+        function test1(){
+            console.log(document.cookie)
+        }
+        
+        
+    </script>
+</body>
+</html>
