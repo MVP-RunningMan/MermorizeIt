@@ -1,0 +1,342 @@
+{
+  "words": [
+    {
+      "words": [
+        {
+          "id": 1,
+          "word": "refuse",
+          "translations": [
+            "v. 拒绝"
+          ],
+          "egs": [
+            {
+              "eg": "She asked him to leave, but he refused.",
+              "egTranslation": "她叫他走，但他不肯。"
+            },
+            {
+              "eg": "When he offered all that money, I could hardly refuse (= could not refuse ) , could I?",
+              "egTranslation": "他愿意给那么多钱，我怎么可能拒绝呢？"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 2,
+          "word": "soluble",
+          "translations": [
+            "adj. 可溶的；可以解决的"
+          ],
+          "egs": [
+            {
+              "eg": "soluble aspirin",
+              "egTranslation": "可溶性阿司匹林"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 3,
+          "word": "brave",
+          "translations": [
+            "adj. 勇敢的；极好的"
+          ],
+          "egs": [
+            {
+              "eg": "brave soldiers",
+              "egTranslation": "勇敢的士兵"
+            },
+            {
+              "eg": "her brave fight against cancer",
+              "egTranslation": "她与癌症的勇敢搏斗"
+            },
+            {
+              "eg": "Despite their captain’s brave performance, Arsenal lost 2–1.",
+              "egTranslation": "尽管队长表现出色，但阿森纳队还是以1比2告负。"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 4,
+          "word": "hat",
+          "translations": [
+            "n. 帽子（一般指有边的）"
+          ],
+          "egs": [
+            {
+              "eg": "Maria was wearing a beautiful new hat.",
+              "egTranslation": "玛丽亚戴着一顶漂亮的新帽子。"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 5,
+          "word": "beach",
+          "translations": [
+            "n. 海滩，湖滩，河滩"
+          ],
+          "egs": [
+            {
+              "eg": "a sandy beach",
+              "egTranslation": "沙滩"
+            },
+            {
+              "eg": "surfers on the beach",
+              "egTranslation": "沙滩上的冲浪者"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 6,
+          "word": "authority",
+          "translations": [
+            "n. 当局，官方；权力"
+          ],
+          "egs": [
+            {
+              "eg": "an agreement between the US and Colombian authorities",
+              "egTranslation": "美国和哥伦比亚当局的一份协议"
+            },
+            {
+              "eg": "Only the president has the authority to declare war.",
+              "egTranslation": "只有总统才有权宣战。"
+            },
+            {
+              "eg": "I need to speak to someone in authority (= who has a position of power ) .",
+              "egTranslation": "我得找管事的人谈谈。"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 7,
+          "word": "roast",
+          "translations": [
+            "v. 烤，炙；烘"
+          ],
+          "egs": [
+            {
+              "eg": "Are you going to roast the chicken?",
+              "egTranslation": "这鸡你是准备烤的吗？"
+            },
+            {
+              "eg": "the delicious smell of meat roasting",
+              "egTranslation": "烤肉的香味"
+            },
+            {
+              "eg": "We caught a rabbit and roasted it over an open fire.",
+              "egTranslation": "我们捉到一只兔子，放在火上烧烤。"
+            },
+            {
+              "eg": "dry-roasted peanuts",
+              "egTranslation": "干烘的花生"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 8,
+          "word": "amplify",
+          "translations": [
+            "v. 放大，扩大；增强"
+          ],
+          "egs": [
+            {
+              "eg": "an amplified guitar",
+              "egTranslation": "带有扩音设备的电吉他"
+            },
+            {
+              "eg": "These stories only amplified her fears.",
+              "egTranslation": "这些故事徒增了她的恐惧感。"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 9,
+          "word": "bulk",
+          "translations": [
+            "n. 大部分；体积，块头"
+          ],
+          "egs": [
+            {
+              "eg": "The bulk of consumers are based in towns.",
+              "egTranslation": "大多数消费者都是城镇居民。"
+            },
+            {
+              "eg": "The dough will rise until it is double in bulk.",
+              "egTranslation": "面团会发酵到原来的两倍大。"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 10,
+          "word": "put",
+          "translations": [
+            "v. 放，摆；使处于"
+          ],
+          "egs": [
+            {
+              "eg": "He put the coffee on the table.",
+              "egTranslation": "他把咖啡放在桌上。"
+            },
+            {
+              "eg": "Where did you put the programmes?",
+              "egTranslation": "你把节目单放在哪里了？"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 11,
+          "word": "stable",
+          "translations": [
+            "adj. 稳定的，不变的"
+          ],
+          "egs": [
+            {
+              "eg": "A wide base will make the structure much more stable.",
+              "egTranslation": "宽大的底座会使结构牢固许多。"
+            },
+            {
+              "eg": "Children like a stable environment.",
+              "egTranslation": "儿童喜欢稳定的环境。"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 12,
+          "word": "certificate",
+          "translations": [
+            "n. 证书，证件，执照；（毕业）文凭，合格证书"
+          ],
+          "egs": [
+            {
+              "eg": "birth/death/marriage certificate (=giving details of someone’s birth, death, or marriage)",
+              "egTranslation": "出生/死亡/结婚证书"
+            },
+            {
+              "eg": "a degree certificate",
+              "egTranslation": "学位证书"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 13,
+          "word": "dragon",
+          "translations": [
+            "n. 龙"
+          ],
+          "egs": [
+            {
+              "eg": "She worked a dragon on the new linen cloth.",
+              "egTranslation": "她在新的亚麻布上绣了条龙。"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 14,
+          "word": "capable",
+          "translations": [
+            "adj. 有能力的；有才能的"
+          ],
+          "egs": [
+            {
+              "eg": "I don’t think he’s capable of murder.",
+              "egTranslation": "我认为他没有能力杀人。"
+            },
+            {
+              "eg": "The company isn’t capable of handling an order that large.",
+              "egTranslation": "那家公司没有能力应付那么大的订单。"
+            },
+            {
+              "eg": "I’m perfectly capable of looking after myself, thank you!",
+              "egTranslation": "我完全能够自己照顾自己，多谢了！"
+            },
+            {
+              "eg": "a strong capable woman",
+              "egTranslation": "一个坚强能干的女人"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        },
+        {
+          "id": 15,
+          "word": "criticism",
+          "translations": [
+            "n. 批评；批判；评论"
+          ],
+          "egs": [
+            {
+              "eg": "Despite strong criticism , the new system is still in place.",
+              "egTranslation": "尽管遭到了猛烈的批评，新制度依然原封不动。"
+            },
+            {
+              "eg": "There has been widespread criticism of the decision.",
+              "egTranslation": "这一决定受到了普遍的批评。"
+            },
+            {
+              "eg": "We try to give students constructive criticism .",
+              "egTranslation": "我们设法对学生提出有建设性的批评。"
+            },
+            {
+              "eg": "Another criticism levelled at him was that his teaching methods were old-fashioned.",
+              "egTranslation": "还有一个针对他的批评是，他的教学方法已经过时。"
+            },
+            {
+              "eg": "The government’s economic strategy has attracted a lot of criticism .",
+              "egTranslation": "政府的经济政策招致了大量的批评。"
+            },
+            {
+              "eg": "You must learn to accept criticism .",
+              "egTranslation": "你必须学会接受批评。"
+            },
+            {
+              "eg": "Many employees find it hard to take even mild criticism .",
+              "egTranslation": "有许多员工甚至连轻微的批评也很难接受。"
+            },
+            {
+              "eg": "His actions provoked severe criticism from civil rights groups.",
+              "egTranslation": "他的行为招致了民权组织的严厉批评。"
+            },
+            {
+              "eg": "the storm of criticism that followed his announcement",
+              "egTranslation": "他的声明引来的批评浪潮"
+            },
+            {
+              "eg": "literary criticism",
+              "egTranslation": "文学评论"
+            }
+          ],
+          "isLearned": "false",
+          "isKnown": "false"
+        }
+      ]
+    }
+  ],
+  "updateWords": [],
+  "isLogin": {
+    "username": "1234",
+    "password": "1234"
+  }
+}
